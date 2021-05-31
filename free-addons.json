@@ -1,0 +1,61 @@
+{
+    "animation_nodes":{
+        "name": "Animation nodes",
+        "description": "Node based visual scripting system designed for motion graphics in Blender.",
+        "link": {
+            "linux": "https://github.com/JacquesLucke/animation_nodes/releases/download/v2.1-for-blender-v2.83-cd-build/animation_nodes_v2_1_linux_py38.zip",
+            "macos": "https://github.com/JacquesLucke/animation_nodes/releases/download/v2.1-for-blender-v2.83-cd-build/animation_nodes_v2_1_macOS_py37.zip",
+            "win": "https://github.com/JacquesLucke/animation_nodes/releases/download/v2.1-for-blender-v2.83-cd-build/animation_nodes_v2_1_windows_py37.zip"
+        },
+        "author":"Jacques Lucke"
+    },
+    "textools_blender":{
+        "name": "TexTools",
+        "description": "TexTools is a UV and Texture tool set for 3dsMax created several years ago. This open repository will port in time several of the UV tools to Blender in python.",
+        "link":"https://github.com/SavMartin/TexTools-Blender/releases/download/v1.4.2/TexTools_1_4_2.zip",
+        "author":"Sav Martin"
+    },
+    "renderman_for_blender":{
+        "name": "Renderman",
+        "description": "Blender render addon for Pixar's RenderMan 21.0 and beyond.",
+        "link":"https://github.com/furby-tm/RenderManForBlender/archive/refs/tags/v21_5_0.zip",
+        "author":"furby-tm"
+    },
+    "rigflex":{
+        "name": "addonm",
+        "description": "Simple soft body for Blender armatures",
+        "link":"https://github.com/nerk987/RigFlex/releases/download/v0.3.4-2.79/RigFlex.zip",
+        "author":"nerk987"
+    },
+    "malt":{
+        "name": "malt3d",
+        "description": "Render framework for NPR",
+        "link": {
+            "linux": "https://github.com/bnpr/Malt/releases/download/v1-beta/BlenderMalt-Linux.zip",
+            "macos": "https://github.com/bnpr/Malt/releases/download/v1-beta/BlenderMalt-macOS.zip",
+            "win": "https://github.com/bnpr/Malt/releases/download/v1-beta/BlenderMalt-Windows.zip"
+        },
+        "author":"bnpr"
+    },
+    "slap_it":{
+        "name": "Slap it!",
+        "description": "A simple decals addon for Blender 2.8+",
+        "link":"https://github.com/artempoletsky/blender_slap_it/releases/download/v1.0.1/slap_it.py",
+        "author":"artempoletsky"
+    },
+    "bizualizer":{
+        "name": "Bizualizer",
+        "description": "A visualizer addon for blender.",
+        "link":"https://github.com/doakey3/Bizualizer/releases/download/1.2.4/bizualizer.zip",
+        "author":"doakey3"
+    },
+    "blender_gis":{
+        "name": "BlenderGIS",
+        "description": "Blender addons to make the bridge between Blender and geographic data.",
+        "link":"https://github.com/domlysz/BlenderGIS/archive/refs/tags/225.zip",
+        "author":"domlysz"
+    }
+    
+    
+
+}
